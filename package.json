@@ -17,6 +17,6 @@
     "eslint-plugin-import": "^2.20.2",
     "parcel-bundler": "^1.12.4",
     "sass": "^1.26.5",
-    "three": "^0.115.0"
+    "three": "^0.125.0"
   }
 }
